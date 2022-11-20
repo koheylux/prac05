@@ -1,2 +1,1 @@
-# prac05
-github テスト
+#github テスト
